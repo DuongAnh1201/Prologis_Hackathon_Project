@@ -1,0 +1,37 @@
+{
+    "products": {
+        "Front and rear brake cables": {
+            "user_id": null,
+            "user_name": null,
+            "pick_up_time": null,
+            "category": null,
+            "drop_off_location": null,
+            "drop_off_time": null,
+            "pick_up_location": null,
+            "quantity": 1,
+            "price": 100.0
+        },
+        "New set of pedal arms": {
+            "user_id": null,
+            "user_name": null,
+            "pick_up_time": null,
+            "category": null,
+            "drop_off_location": null,
+            "drop_off_time": null,
+            "pick_up_location": null,
+            "quantity": 2,
+            "price": 15.0
+        },
+        "Labor 3hrs": {
+            "user_id": null,
+            "user_name": null,
+            "pick_up_time": null,
+            "category": null,
+            "drop_off_location": null,
+            "drop_off_time": null,
+            "pick_up_location": null,
+            "quantity": 1,
+            "price": 15.0
+        }
+    }
+}
